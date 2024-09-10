@@ -1,0 +1,42 @@
+
+form {
+    margin:auto;
+    
+
+}
+
+.divMr {
+    text-align: center;
+    margin-bottom: 20px;
+}
+.divMr{
+    margin-left: 10px;
+}
+
+
+.divOne {
+    display: flex;
+    margin-left: 50px;
+}
+
+
+.divlab, .divin {
+    width: 28%;
+}
+
+label {
+    display: block;
+    margin-bottom: 13px;
+    text-align: left; 
+}
+
+
+.divin input{
+    margin-bottom:10px
+    
+}
+
+img{
+margin-left: 90px;
+margin-bottom: -59px;
+}

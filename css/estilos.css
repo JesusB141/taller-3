@@ -1,0 +1,29 @@
+nav{
+
+    background-color:rgb(61, 60, 60);
+    
+    
+}
+a{
+    font-size:20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-right: 80px;
+    margin-left: 80px;
+    text-decoration: none;
+    color: white;
+
+}
+ul{
+
+    background-color:grey;
+}
+footer{
+    
+    background-color: gray;
+}
+
+figure>a{
+    color: black;
+
+}
+
